@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	content: center;
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+
+}
+h1 {
+	font-weight: 100;
+	font-family: fantasy;
+	text-align: center;
+	color: white;
+	font-size: 5em; 
+	margin-left: auto;
+    margin-right: auto;
+	text-shadow: .03em .03em 0 rgb(198, 204, 236);
+}
+
+h2 {
+	color:black;
+}
+
+#start {
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+}
+
+
+div#trivia-game {
+	padding: 20px;
+}
+
+div#sub-wrapper {
+	border: 2px blue;
+	opacity: 30%;
+	background: whitesmoke;
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+}
