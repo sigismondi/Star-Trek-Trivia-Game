@@ -34,8 +34,8 @@ var questions = [{
   correctAnswer: "Guinan"
 }, {
   question: "Where do the Borg eat fast food?",
-  answers: ["At the local Borger King!","At the local Borger King!","At the local Borger King!", "At the local Borger King!", "At the local Borger King!"],
-  correctAnswer: "At the local Borger King!"
+  answers: ["At the local Borger King!","At the local Borger King!","At the local Borger King!", "At the local Borger King!", "All of the above!"],
+  correctAnswer: "All of the Above!"
 }];
 
 var timer;
